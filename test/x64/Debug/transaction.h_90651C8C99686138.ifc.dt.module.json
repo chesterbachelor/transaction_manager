@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\transaction.obj",
+            "outputs": [
+                "x64\\Debug\\transaction.h_90651C8C99686138.ifc.dt.module.json",
+                "x64\\Debug\\transaction.h_90651C8C99686138.ifc.dt.d.json",
+                "x64\\Debug\\transaction.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Chester\\source\\repos\\test\\test\\transaction.h",
+                    "source-path": "c:\\users\\chester\\source\\repos\\test\\test\\transaction.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

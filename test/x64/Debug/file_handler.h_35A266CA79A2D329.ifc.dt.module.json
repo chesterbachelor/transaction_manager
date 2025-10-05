@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\file_handler.obj",
+            "outputs": [
+                "x64\\Debug\\file_handler.h_35A266CA79A2D329.ifc.dt.module.json",
+                "x64\\Debug\\file_handler.h_35A266CA79A2D329.ifc.dt.d.json",
+                "x64\\Debug\\file_handler.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Chester\\source\\repos\\test\\test\\file_handler.h",
+                    "source-path": "c:\\users\\chester\\source\\repos\\test\\test\\file_handler.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
