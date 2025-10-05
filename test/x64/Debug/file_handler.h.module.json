@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\file_handler.h.obj",
+            "outputs": [
+                "C:\\Users\\Chester\\source\\repos\\test\\test\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Chester\\source\\repos\\test\\test\\x64\\Debug\\file_handler.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "file_handler.h",
+                    "source-path": "c:\\users\\chester\\source\\repos\\test\\test\\file_handler.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\transaction.h.obj",
+            "outputs": [
+                "C:\\Users\\Chester\\source\\repos\\test\\test\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Chester\\source\\repos\\test\\test\\x64\\Debug\\transaction.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "transaction.h",
+                    "source-path": "c:\\users\\chester\\source\\repos\\test\\test\\transaction.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

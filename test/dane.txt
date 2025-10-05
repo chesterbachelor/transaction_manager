@@ -1,0 +1,4 @@
+id|amount|category|description
+1|25.54|test|test
+2|12.12|Cloth|Jacket
+3|999.99|PC|PC
